@@ -1,0 +1,6 @@
+c:\users\sureshp\documents\visual studio 2013\Projects\azure-training-aspnetproj1\azure-training-aspnetproj1\bin\azure-training-aspnetproj1.dll.config
+c:\users\sureshp\documents\visual studio 2013\Projects\azure-training-aspnetproj1\azure-training-aspnetproj1\bin\azure-training-aspnetproj1.dll
+c:\users\sureshp\documents\visual studio 2013\Projects\azure-training-aspnetproj1\azure-training-aspnetproj1\bin\azure-training-aspnetproj1.pdb
+c:\users\sureshp\documents\visual studio 2013\Projects\azure-training-aspnetproj1\azure-training-aspnetproj1\obj\Debug\azure-training-aspnetproj1.csprojResolveAssemblyReference.cache
+c:\users\sureshp\documents\visual studio 2013\Projects\azure-training-aspnetproj1\azure-training-aspnetproj1\obj\Debug\azure-training-aspnetproj1.dll
+c:\users\sureshp\documents\visual studio 2013\Projects\azure-training-aspnetproj1\azure-training-aspnetproj1\obj\Debug\azure-training-aspnetproj1.pdb
